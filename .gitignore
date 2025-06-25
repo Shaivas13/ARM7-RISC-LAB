@@ -32,9 +32,8 @@ Debug/
 Release/
 
 # IDE/project-specific
-*.uvopt
-*.uvproj
-*.uvprojx
+*_uvopt.bak
+*_uvproj.bak
 *.scvd
 
 # OS X system files
