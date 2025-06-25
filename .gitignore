@@ -1,0 +1,44 @@
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Keil uVision temporary and build files
+*.axf
+*.bak
+*.dep
+*.d
+*.lst
+*.map
+*.o
+*.obj
+*.iex
+*.lnp
+*.tra
+*.uvgui.*
+
+# Keil project backups and logs
+*.plg
+*.bak
+*.old
+*.log
+*.htm
+*.tid
+
+# Build output folders
+BUILD/
+build/
+Output/
+Debug/
+Release/
+
+# IDE/project-specific
+*.uvopt
+*.uvproj
+*.uvprojx
+*.scvd
+
+# OS X system files
+.DS_Store
+
+# Screenshot thumbnails or preview cache
+*.thumb.*
